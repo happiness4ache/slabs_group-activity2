@@ -20,7 +20,7 @@ Divide = Num_1 / Num_2  # Divide of Num_1 and Num_2
 Integer_division = Num_1 // Num_2  # Integer_division of Num_1 and Num_2
 Modulus = Num_1 % Num_2  # Modulus of Num_1 and Num_2
 
-# This prints the output of the arithmetic operations and the group name
+# This prints the output or results of the arithmetic operations and the group name
 print("Your group name is", group_name)
 print("Addition :", Num_1 , " + " , Num_2, " = ", Add, ", Type ", type(Add) )
 print("Divide :", Num_1 , " / " , Num_2, " = ", Divide, ". Type ", type(Divide) )
